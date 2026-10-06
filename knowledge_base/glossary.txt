@@ -1,0 +1,29 @@
+# Financial Glossary & Educational Material
+
+## Key Ratios
+P/E Ratio (Price-to-Earnings Ratio): The P/E ratio measures a company's current share price relative to its per-share earnings. A high P/E could mean that a stock's price is high relative to earnings and possibly overvalued. Conversely, a low P/E might indicate that the current stock price is low relative to earnings. 
+
+Forward P/E: A version of the ratio of price-to-earnings that uses forecasted earnings for the P/E calculation.
+
+Price-to-Book (P/B) Ratio: Companies use the price-to-book ratio to compare a firm's market capitalization to its book value. It's calculated by dividing the company's stock price per share by its book value per share (BVPS). A P/B ratio under 1 is typically considered a solid investment for value investors.
+
+Debt-to-Equity (D/E) Ratio: Calculated by dividing a company’s total liabilities by its shareholder equity. It is a measure of the degree to which a company is financing its operations through debt versus wholly-owned funds. A high D/E ratio indicates higher risk.
+
+Return on Equity (ROE): A measure of financial performance calculated by dividing net income by shareholders' equity. Because shareholders' equity is equal to a company’s assets minus its debt, ROE is considered the return on net assets.
+
+Profit Margin: Represents what percentage of sales has turned into profits. It is a measure of profitability.
+
+Dividend Yield: A financial ratio that shows how much a company pays out in dividends each year relative to its stock price.
+
+## Risk Metrics
+Volatility: A statistical measure of the dispersion of returns for a given security or market index. Higher volatility means higher risk.
+
+Beta: A measure of the volatility, or systematic risk, of a security or portfolio compared to the market as a whole. A beta of 1 indicates that the security's price moves with the market. A beta greater than 1 indicates greater volatility than the market, and less than 1 indicates less volatility.
+
+Portfolio Concentration: Refers to the degree to which a portfolio's assets are invested in a small number of holdings. A highly concentrated portfolio is riskier because a decline in one asset has a larger impact on the overall portfolio value. We use the Herfindahl-Hirschman Index (HHI) to measure this.
+
+## Regulatory and Educational (SEBI Guidelines)
+Retail investors should always verify the source of tips and rumors. SEBI mandates that investment advice should only be given by registered investment advisors (RIAs). 
+Investors should diversify their portfolios to mitigate risks.
+Do not invest solely based on historical performance, as past performance is not indicative of future results.
+Always check the fundamentals of the company before investing.
